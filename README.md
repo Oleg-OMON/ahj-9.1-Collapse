@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yhcrrifvwe86e960/branch/master?svg=true)](https://ci.appveyor.com/project/Oleg-OMON/ahj-9-1-collapse/branch/master)
